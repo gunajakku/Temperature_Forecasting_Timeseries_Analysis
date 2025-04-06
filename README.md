@@ -8,11 +8,11 @@ The data have been downloaded from the website http://rp5.ru/. The data are aver
 
 ## Tasks
 
-This project sets and addresses the following questions: 
-* How to conduct a Time-Series Analysis project from raw data?
-* How to deal with a Time-Series data that has seasonality?
+ 
+* To conduct a Time-Series Analysis project from raw data?
+* To deal with a Time-Series data that has seasonality?
 * Implementing the Moving Average to capture long-term fluctuations
 * Parameter Selection for the model using GRID Search
 * Make Weather Forecasts using the SARIMAX model
-* How to diagnose the model performance using charts and other metrics (AIC score, RMSE value)?
+* Diagnose the model performance using charts and other metrics (AIC score, RMSE value)?
 
